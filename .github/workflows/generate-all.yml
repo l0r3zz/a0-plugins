@@ -22,6 +22,8 @@ on:
 
 jobs:
   generate-index:
+    permissions:
+      contents: write
     uses: ./.github/workflows/generate-plugin-index.yml
     secrets: inherit
     with:
