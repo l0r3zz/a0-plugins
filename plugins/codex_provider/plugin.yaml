@@ -1,0 +1,7 @@
+title: Codex Provider
+description: Connect Agent Zero to OpenAI Codex models via OAuth device flow or API key. Runs a local proxy for token management and model routing.
+github: https://github.com/protolabs42/codex-provider
+tags:
+  - llm
+  - oauth
+  - api
