@@ -1,5 +1,5 @@
 title: A0 Lemonade
-description: Adds Lemonade as an OpenAI-compatible LLM provider for chat and embedding models.
+description: Adds Lemonade Server as an OpenAI-compatible LLM provider for chat and embedding models.
 github: https://github.com/neurocis/A0_Lemonade
 tags:
   - llm
